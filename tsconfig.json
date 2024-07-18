@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    /* Visit https://aka.ms/tsconfig to read more about this file */
+    "outDir": "./dist",
+
+    /* Language and Environment */
+    "target": "ES2022",
+    "module": "ES2022",
+
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true /* Skip type checking all .d.ts files. */
+  },
+  "include": ["**/*.ts"],
+  "exclude": ["dist"]
+}

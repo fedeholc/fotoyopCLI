@@ -1,0 +1,2 @@
+add-border -w 22 --color red
+add-border -w 1 --color blue
